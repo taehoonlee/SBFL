@@ -9,4 +9,4 @@ Copyright (c) 2015 Taehoon Lee
 <li> SBFL_PCGLS.m: the liner system is solved by preconditioned conjugate gradient for least squares problems (PCGLS). </li>
 
 # Getting Started
-An example is available on testSBFL.m.
+An example is available on testSBFL.m. The Lena image can be found [here](http://www.ece.rice.edu/~wakin/images/).
